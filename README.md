@@ -1,2 +1,2 @@
-# AALXprodev-advanced_git
+# ALXprodev-advanced_git
 Git-Flows
